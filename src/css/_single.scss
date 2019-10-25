@@ -1,0 +1,22 @@
+.single__info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery{
+    margin-left: 15px;
+    width: 50%;
+    display: flex;
+}
+
+.gallery__img{
+    width: 100 px;
+    height: 100px;
+    object-fit: cover;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.single__place{
+    align-self: center;
+}

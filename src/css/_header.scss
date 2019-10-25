@@ -1,0 +1,17 @@
+.nav__flex{
+    display: flex;
+    background-color: $secondaryColor;
+    height: 3rem;
+}
+
+.header{
+    width: 50%;
+    padding: 15px 0 0 20px;
+}
+
+.logo{
+    a{
+        color: $primaryColor;
+        text-decoration: none;
+    }
+}

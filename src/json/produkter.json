@@ -1,0 +1,53 @@
+[
+    {
+        "sku": 1,
+        "navn": "Feta",
+        "beskrivelse":[
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero eum dignissimos doloremque, fugiat pariatur quidem nostrum corrupti qui voluptate fugit.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel corrupti necessitatibus provident maiores harum optio tenetur excepturi, illo iusto autem, consequuntur quam dolorem cum, asperiores sequi praesentium nam quo? Eligendi."
+        ],
+        "land": "grækenland",
+        "pris": 34.95,
+        "billeder": [
+            "feta01.jpg",
+            "feta02.jpg",
+            "feta03.jpg",
+            "feta04.jpg"
+        ],
+        "vægt": 250
+    },  
+    {   
+        "sku": 2,
+        "navn": "Emmenthaler",
+        "beskrivelse":[
+        "lorem ipsum",
+        "dolor sit amet"
+        ],
+        "land": "Fransk",
+        "pris": 59.95,
+        "billeder": [
+            "emmenthaler01.jpg",
+            "emmenthaler02.jpg",
+            "emmenthaler03.jpg",
+            "emmenthaler04.jpg"
+        ],
+        "vægt": 200
+    } ,
+    {   
+        "sku": 3,
+        "navn": "Brie",
+        "beskrivelse":[
+        "lorem ipsum",
+        "dolor sit amet"
+        ],
+        "land": "Dansk",
+        "pris": 49.95,
+        "billeder": [
+            "brie01.jpg",
+            "brie02.jpg",
+            "brie03.jpg",
+            "brie04.jpg"
+        ],
+        "vægt": 150 
+    } 
+]
