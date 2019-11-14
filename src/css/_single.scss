@@ -1,3 +1,10 @@
+.flex{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+}
 .single__info{
     display: flex;
     justify-content: space-between;
